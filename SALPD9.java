@@ -20,7 +20,7 @@ public class SALPD9 {
         // Crear el diccionario
         HashMap<String, String> diccionario = new HashMap<>();
         diccionario.put("mujer", "woman");
-        diccionario.put("desarrolladora", "develop");
+        diccionario.put("desarrolladora", "developer");
         diccionario.put("tarea", "task");
         diccionario.put("tambien", "also");
         diccionario.put("incluso", "even");
